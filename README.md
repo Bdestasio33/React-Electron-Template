@@ -21,17 +21,17 @@ Minimal Electron, React, PostCSS and Webpack boilerplate to help you get started
 
 ### Table of contents
 
-* [Install](#install)
-* [Usage](#usage)
-* [Code of Conduct](#code-of-conduct)
-* [License](#license)
+- [Install](#install)
+- [Usage](#usage)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 ### Install
 
 #### Clone this repo
 
 ```
-git clone https://github.com/alexdevero/electron-react-webpack-boilerplate.git
+git clone https://github.com/Bdestasio33/React-Electron-Template.git
 ```
 
 #### Install dependencies
@@ -39,7 +39,9 @@ git clone https://github.com/alexdevero/electron-react-webpack-boilerplate.git
 ```
 npm install
 ```
+
 or
+
 ```
 yarn
 ```
@@ -51,7 +53,9 @@ yarn
 ```
 npm run start
 ```
+
 or
+
 ```
 yarn start
 ```
@@ -61,7 +65,9 @@ yarn start
 ```
 npm run package
 ```
+
 or
+
 ```
 yarn package
 ```
@@ -71,15 +77,19 @@ yarn package
 ```
 npm run build
 ```
+
 or
+
 ```
 yarn build
 ```
 
 #### Test the app (after `npm run build` || `yarn run build`)
+
 ```
 npm run prod
 ```
+
 ```
 yarn prod
 ```
@@ -90,4 +100,4 @@ yarn prod
 
 ### License
 
-MIT © [Alex Devero](https://alexdevero.com).
+MIT ©
